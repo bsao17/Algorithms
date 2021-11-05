@@ -1,0 +1,22 @@
+{
+  "name": "algorithme",
+  "version": "1.0.0",
+  "description": "some exercices to improving with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsao17/Algorithme.git"
+  },
+  "author": "MEHDDEB Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsao17/Algorithme/issues"
+  },
+  "homepage": "https://github.com/bsao17/Algorithme#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
