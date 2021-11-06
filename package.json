@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bsao17/Algorithme#readme",
   "devDependencies": {
-    "jest": "^27.3.1"
+    "jest": "^27.3.1",
+    "parcel": "^2.0.0"
   }
 }
