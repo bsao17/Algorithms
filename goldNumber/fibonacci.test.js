@@ -1,3 +1,7 @@
+/**
+ * Display the fibonacci sequence to console with the number of items
+ */
+
 const fibonacci = (items)=>{
     let fibonacciSequence = [0,1];
     for(let i = 2; i < items; i++){
