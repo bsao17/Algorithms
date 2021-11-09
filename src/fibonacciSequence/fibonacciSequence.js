@@ -1,4 +1,4 @@
-const fibonacci = (items)=>{
+export const fibonacci = (items)=>{
     let fibonacciSequence = [0,1];
     for(let i = 2; i < items; i++){
         fibonacciSequence[i] = fibonacciSequence[i-1] + fibonacciSequence[i-2];

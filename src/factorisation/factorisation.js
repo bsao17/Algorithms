@@ -1,4 +1,4 @@
-function factorialize(num) {
+export default function factorialize(num) {
   //récupérer tous les entiers inférieurs ou égales
   let sum;
   let integer = [];
