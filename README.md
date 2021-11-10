@@ -12,7 +12,7 @@ et ainsi d'aider à progresser (tous langages confondus), tous ceux qui le souha
 
 Toutes aides sera la bienvenue, donc n'hésitez pas à forker pour apporter votre pierre à l'édifice.
 
-Bruno M.
+
 
 ## English
 This repo is actually a collection of everything I can find everywhere, and which concerns the algorithm.
@@ -24,5 +24,6 @@ So I started this repository, in order to concentrate in the same place, a good 
 and thus help to progress (all languages combined), all those who wish it.
 
 Any help will be welcome, so don't hesitate to fork over to bring your stone to the building.
+
 
 Bruno M.
