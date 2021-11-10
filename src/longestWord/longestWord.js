@@ -1,5 +1,3 @@
-/** Find the longest word in a string */
-
 export default function findLongestWordLength(str) {
     let initialSize = 0
     const wordArray = str.split(" ")

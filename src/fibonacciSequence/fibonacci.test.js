@@ -1,4 +1,4 @@
-/**
+/*
  * Display the fibonacci sequence to console with the number of items
  */
 import {fibonacci} from "./fibonacciSequence";

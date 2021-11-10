@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "babelFactoristaion": "babel src/factorisation/factorisation.test.js --out-dir dist",
-    "babelfibonacci": "babel src/fibonacciSequence/fibonacci.test.js --out-dir dist",
-    "babelConfirmEnding": "babel src/confirmEndingString/confirm-the-ending.test.js --out-dir dist",
-    "babelLargestArray": "babel src/largestArrayNumber/return-largest-numbers-in-arrays.test.js --out-dir dist",
-    "babellongestWord": "babel src/longestWord/longestWord.test.js --out-dir dist"
+    "babelFactoristaion": "babel src/factorisation/factorisation.js --out-dir dist",
+    "babelfibonacci": "babel src/fibonacciSequence/fibonacciSequence.js --out-dir dist",
+    "babelConfirmEnding": "babel src/confirmEndingString/confirm-the-ending.js --out-dir dist",
+    "babelLargestArray": "babel src/largestArrayNumber/return-largest-numbers-in-arrays.js --out-dir dist",
+    "babellongestWord": "babel src/longestWord/longestWord.js --out-dir dist"
   },
   "repository": {
     "type": "git",

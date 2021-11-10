@@ -1,4 +1,4 @@
-/**Function test with Jest */
+/* Find the longest word in a string */
 import findLongestWordLength from "./longestWord";
 
   test('shoFind the longest word in a stringuld ', () => {
