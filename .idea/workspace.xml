@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437f2ea7-a8d3-477e-9071-6804312dd24a" name="Changes" comment="update README.md">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="437f2ea7-a8d3-477e-9071-6804312dd24a" name="Changes" comment="update README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +128,6 @@
       <updated>1636477391199</updated>
       <workItem from="1636477393620" duration="5161000" />
       <workItem from="1636538893522" duration="1744000" />
-      <workItem from="1648023549354" duration="914000" />
     </task>
     <task id="LOCAL-00001" summary="Add babel.config.js and dist directory for results">
       <created>1636478559421</created>
